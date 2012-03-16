@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.zenonia2.gamevil"
+	id		= "com.gamevil.zenonia2"
 	version 	= "1.0.0">
 
-	<name>com.zenonia2.gamevil</name>
+	<name>com.gamevil.zenonia2</name>
 
 	<description>
-		astd baidu
+		com.gamevil.zenonia2
 	</description>
 
 	<author href="http://gamevil.zenonia2.com"
