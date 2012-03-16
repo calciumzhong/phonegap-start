@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "zenonia2.gamevil.com"
+	id		= "gamevil.zenonia2.com"
 	version 	= "1.0.0">
 
 	<name>astd</name>
@@ -10,7 +10,7 @@
 		astd baidu
 	</description>
 
-	<author href="http://wap.astd.cn"
+	<author href="http://gamevil.zenonia2.com"
 		email="hu8787@gmail.com">
 		astd
 	</author>
